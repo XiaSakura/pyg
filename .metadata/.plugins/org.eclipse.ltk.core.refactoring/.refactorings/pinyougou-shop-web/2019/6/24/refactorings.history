@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;goods.html&apos; to &apos;goods.html&apos;&#x0D;&#x0A;- Original project: &apos;pinyougou-shop-web&apos;&#x0D;&#x0A;- Destination element: &apos;goods.html&apos;&#x0D;&#x0A;- Original element: &apos;goods.html&apos;" description="Copy file" element1="src/main/webapp/admin/goods.html" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1560177649849" target="/pinyougou-shop-web/src/main/webapp/admin/goods.html" units="0" version="1.0"/>
+</session>

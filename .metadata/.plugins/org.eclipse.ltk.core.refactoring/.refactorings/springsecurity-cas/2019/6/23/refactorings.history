@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;UserDetailServiceImpl.java&apos; to &apos;pinyougou-user-web/src/main/java/com.pinyougou.user.service&apos;&#x0D;&#x0A;- Original project: &apos;springsecurity-cas&apos;&#x0D;&#x0A;- Destination element: &apos;pinyougou-user-web/src/main/java/com.pinyougou.user.service&apos;&#x0D;&#x0A;- Original element: &apos;com.xia.demo.UserDetailServiceImpl.java&apos;" description="Copy compilation unit" destination="=pinyougou-user-web/src\/main\/java&lt;com.pinyougou.user.service" element1="/src\/main\/java&lt;com.xia.demo{UserDetailServiceImpl.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1559613078376" units="1" version="1.0"/>
+</session>

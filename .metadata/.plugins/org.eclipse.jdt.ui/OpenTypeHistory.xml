@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+<typeInfo handle="=pinyougou-manager-web/D:\/java_development\/repository_01\/org\/springframework\/spring-web\/4.2.4.RELEASE\/spring-web-4.2.4.RELEASE.jar&lt;org.springframework.web.multipart.commons(CommonsMultipartResolver.class[CommonsMultipartResolver" modifiers="33" timestamp="1465725561119"/>
+<typeInfo handle="=pinyougou-search-interface/src\/main\/java&lt;com.pinyougou.search.service{ItemSearchService.java[ItemSearchService" modifiers="513" timestamp="1559463619273"/>
+<typeInfo handle="=pinyougou-content-service/D:\/java_development\/repository_01\/org\/springframework\/spring-webmvc\/4.2.4.RELEASE\/spring-webmvc-4.2.4.RELEASE.jar&lt;org.springframework.web.servlet.view.freemarker(FreeMarkerConfigurer.class[FreeMarkerConfigurer" modifiers="33" timestamp="1486519169113"/>
+<typeInfo handle="=pinyougou-search-service/D:\/java_development\/repository_01\/org\/apache\/geronimo\/specs\/geronimo-jms_1.1_spec\/1.1.1\/geronimo-jms_1.1_spec-1.1.1.jar&lt;javax.jms(MessageListener.class[MessageListener" modifiers="1537" timestamp="1487151492983"/>
+<typeInfo handle="=pinyougou-shop-web/D:\/java_development\/repository_01\/org\/springframework\/security\/spring-security-core\/4.1.0.RELEASE\/spring-security-core-4.1.0.RELEASE.jar&lt;org.springframework.security.core.userdetails(UserDetailsService.class[UserDetailsService" modifiers="1537" timestamp="1496974636686"/>
+<typeInfo handle="=pinyougou-cart-interface/src\/main\/java&lt;com.pinyougou.cart.service{CartService.java[CartService" modifiers="513" timestamp="1559647479003"/>
+<typeInfo handle="=pinyougou-user-interface/src\/main\/java&lt;com.pinyougou.user.service{AddressService.java[AddressService" modifiers="513" timestamp="1559649939722"/>
+<typeInfo handle="=pinyougou-pay-interface/src\/main\/java&lt;com.pinyougou.pay.service{WeixinPayService.java[WeixinPayService" modifiers="513" timestamp="1559998405047"/>
+</typeInfoHistroy>

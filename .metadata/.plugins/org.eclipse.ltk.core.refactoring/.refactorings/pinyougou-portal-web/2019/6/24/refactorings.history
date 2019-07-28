@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;contentService.js&apos; to &apos;contentService.js&apos;&#x0D;&#x0A;- Original project: &apos;pinyougou-portal-web&apos;&#x0D;&#x0A;- Destination element: &apos;contentService.js&apos;&#x0D;&#x0A;- Original element: &apos;contentService.js&apos;" description="Copy file" element1="src/main/webapp/js/service/contentService.js" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1560237816534" target="/pinyougou-portal-web/src/main/webapp/js/service/contentService.js" units="0" version="1.0"/>
+</session>
